@@ -8,7 +8,9 @@ Tugas Praktikum
 6. Tampilkan/hitung rata-rata gaji pegawai!
 7. Tampilkan gaji terkecil!
 8. Tampilkan gaji terbesar!
-Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 ! pc1
+
+### 1.Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 ! pc1
+![gambar](gambar/b.png)
 
 Tampilkan pegawai yang tunjangannya NULL! pc2
 
